@@ -1,6 +1,6 @@
 package javapractisebasic.com;
 
-public class TwoDimensionManual18 {
+public class TwoDimensionManual19 {
 	
 	public static void main (String []args) {
 		
