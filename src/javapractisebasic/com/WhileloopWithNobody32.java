@@ -1,6 +1,6 @@
 package javapractisebasic.com;
 
-public class WhileloopWithNobody31 {
+public class WhileloopWithNobody32 {
 
 	public static void main(String[] args) {
 		
