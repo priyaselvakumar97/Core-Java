@@ -9,9 +9,7 @@ public class ClassAndMethod {
 		void volume() {
 			System.out.println("Volume is");
 	       System.out.println(width*height*depth);
-		
-		
-		
+	
 	}
 
 }
